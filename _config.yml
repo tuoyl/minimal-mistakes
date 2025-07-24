@@ -74,7 +74,7 @@ search_provider          : algolia # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
-  application_id         : ENV['ALGOLIA_API_KEY'] # YOUR_APPLICATION_ID
+  application_id         : ENV['ALGOLIA_APPLICATION_ID'] # YOUR_APPLICATION_ID
   index_name             : youlituo_site # YOUR_INDEX_NAME
   search_only_api_key    : bb151a5d589c7483f66547cd02458956 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
