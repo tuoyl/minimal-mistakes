@@ -10,7 +10,7 @@ Astrophysicist working on X‑ray mission calibration, and Pulsar astronomy.
 
 ### Research  
 [orcid](https://orcid.org/0000-0003-3127-0110)
-[orcid](https://orcid.org/0000-0003-3127-0110)
+[Google Scholar](https://scholar.google.co.jp/citations?hl=de&pli=1&user=CCOMFaEAAAAJ)
 
 ### Selected Publications  
 - *Youli Tuo, Xiaobo Li, Ying Tan, Baiyang Wu, Weichun Jiang, Liming Song, Jinlu Qu, Sudeep Gogate, Shuang-
